@@ -9,7 +9,7 @@
 
 ### More formal Definition:
 
-Global network of interconnected computers that communicate via TCP/IP Network of networks
+- Global network of interconnected computers that communicate via TCP/IP Network of networks
 
 ### Internet is an infrastructure that carries things like:
 
@@ -27,7 +27,7 @@ Global network of interconnected computers that communicate via TCP/IP Network o
 
 ### Formal Definition:
 
-The World wide web us an information system where documents and others resources that are avilable over the internet.
+- The World wide web us an information system where documents and others resources that are avilable over the internet.
 
 ### HTTP
 
@@ -41,6 +41,6 @@ In general, the Web is system of sharing resources over the Internet.
 
 ## The Request/Response Cycle
 
-When we request a website using a url as an HTTP request, the response won't be a website which we can see, instead its a set of instructions by which our browser can render the website on our device.
+- When we request a website using a url as an HTTP request, the response won't be a website which we can see, instead its a set of instructions by which our browser can render the website on our device.
 
-These Instructions are nothing but HTML, CSS and JavaScript.
+- These Instructions are nothing but HTML, CSS and JavaScript.
