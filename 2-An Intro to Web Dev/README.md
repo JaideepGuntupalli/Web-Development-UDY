@@ -50,3 +50,19 @@ In general, the Web is system of sharing resources over the Internet.
 - Frontend and backend in an analogy is nothing but the place where you dine and kitchen respectively in a restaurant.
 
 - Inshort the server side is known as backend and client side as frontend.
+
+## What is HTML, CSS & Javascript?
+
+### HTML
+
+- It describes what the web page contains.
+
+### CSS
+
+- It helps describe the html elements.
+
+### Javascript
+
+- It describes the actions of the html elements.
+
+Better way to understand this is by opening a codepen and start commenting out each of the technologies used.
