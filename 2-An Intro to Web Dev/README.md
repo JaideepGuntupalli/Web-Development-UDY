@@ -38,3 +38,9 @@ The World wide web us an information system where documents and others resources
   The information returned by the server because of HTTP request is called HTTP response.
 
 In general, the Web is system of sharing resources over the Internet.
+
+## The Request/Response Cycle
+
+When we request a website using a url as an HTTP request, the response won't be a website which we can see, instead its a set of instructions by which our browser can render the website on our device.
+
+These Instructions are nothing but HTML, CSS and JavaScript.
