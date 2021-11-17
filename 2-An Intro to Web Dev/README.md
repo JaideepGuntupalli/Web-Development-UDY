@@ -44,3 +44,9 @@ In general, the Web is system of sharing resources over the Internet.
 - When we request a website using a url as an HTTP request, the response won't be a website which we can see, instead its a set of instructions by which our browser can render the website on our device.
 
 - These Instructions are nothing but HTML, CSS and JavaScript.
+
+## Frontend and Backend
+
+- Frontend and backend in an analogy is nothing but the place where you dine and kitchen respectively in a restaurant.
+
+- Inshort the server side is known as backend and client side as frontend.
