@@ -32,3 +32,10 @@ Syntax:
 ## Our very first HTML page
 
 - If you don't close a tag, browser assumes that everything from there till the end needs to be bolded.
+
+## About Mozilla Developer Network
+
+- Resources that covers about web technologies.
+- Link: developer.mozilla.org/en-US/
+- Mozilla is not the creater of HTML, CSS or Javascript.
+- But, it is like a wiki to these technologies.
