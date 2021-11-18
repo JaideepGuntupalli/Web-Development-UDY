@@ -47,3 +47,18 @@ Syntax:
 - Update the HTML file with `<p>` tags.
 - It is fine to nest tags with in them.
 - `<p>` tag is used to mark it as a paragraph.
+
+## Heading elements
+
+- Update the HTML file with heading tags.
+- There are 6 levels of headings starting with h1 upto h6.
+- Heading elements shouldn't be used for size.
+- They should be used as per the hierarchy as we change sizes of them using CSS.
+- For example, we should try to keep a maximum of one h1 tag in a page.
+- Heading tag will take up its own full line i.e anything after it will be pushed to next line
+
+### Lorem Ipsum
+
+- We can use an emmet abreviation called `lorem` to input placeholder text.
+- `lorem * N` will input lorem ipsum sentence n times, where `N` is some natural number.
+- If it's `loremN` will input N words of lorem ipsum, where `N` is some natural number.
