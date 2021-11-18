@@ -87,3 +87,12 @@ Syntax:
 - `<ul>` -> Unordered list
 - `<li>` -> List tag
 - We can also nest Ordered / Unordered list inside the `li` tag
+
+## Anchor Tags
+
+- `<a>` tag or Anchor tag is used to create hyperlinks on a webpage.
+- Anchor tag doesnt work without an attribute `href`.
+- `href` will contain the link to where we want our users to redirect.
+- `href` stands for Hypertext REFerence
+- We can also link to another html file
+- They are inline instead of taking up a whole line like heading elements.
