@@ -28,3 +28,7 @@ Syntax:
  <p>I am a paragraph</p>
 - <p> : It is an opening tag
 - </p>: It is a closing tag
+
+## Our very first HTML page
+
+- If you don't close a tag, browser assumes that everything from there till the end needs to be bolded.
