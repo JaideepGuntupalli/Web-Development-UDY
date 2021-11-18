@@ -18,10 +18,10 @@
 
 Some examples of HTML elements:
 
-- <p> element: represents a paragraph of text
-- <h1> element: represents the main header of the page
-- <img> element: embeds an image
-- <form> element: represents a form
+- "<p>" element: represents a paragraph of text
+- "<h1>" element: represents the main header of the page
+- "<img>" element: embeds an image
+- "<form>" element: represents a form
 
 Syntax:
 
@@ -31,7 +31,7 @@ Syntax:
 
 ## Our very first HTML page
 
-- Trying to replicate part of HTML/
+- Trying to replicate part of wikipedia page about chickens with HTML.
 - If you don't close a tag, browser assumes that everything from there till the end needs to be bolded.
 
 ## About Mozilla Developer Network
@@ -46,3 +46,11 @@ Syntax:
 - Update the HTML file with <p> tags.
 - It is fine to nest tags with in them.
 - <p> tag is used to mark it as a paragraph.
+
+## Heading elements
+
+- Update the HTML file with heading tags.
+- There are 6 levels of headings starting with h1 upto h6.
+- Heading elements shouldn't be used for size.
+- They should be used as per the hierarchy as we change sizes of them using CSS.
+- For example, we should try to keep a maximum of one h1 tag.
