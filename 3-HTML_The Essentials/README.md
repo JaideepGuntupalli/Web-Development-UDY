@@ -68,3 +68,13 @@ Syntax:
 - You can `right click` and select `Inspect` to bring up chrome developer tools.
 - You can also use shortcut `Ctrl + Shift + C` in `Win` and `Cmd + Opt + C` in `MacOS`.
 - We can select an element in the page to learn how and why the element is rendered in the way it rendered.
+
+## HTML Boilerplate
+
+- `<!DOCTYPE html>` -> This indicates that we are using HTML5 or instructing browser to use the latest HTML features.
+- `<html>` -> It is the root element of HTML. Every other element on the page is descendant of this element.
+- `<head>` -> Document's metadeta element contains basically things that don't show up on the page.
+- `<title>` -> This is what will be shown on tab of a browser and Google also uses this title for indexing results or bringing up those results.
+- `<body>` -> It includes all the elements that will be displayed on webpage.
+
+- Shortcut: With help of emmet, `!` followed by pressing `Tab` in VS Code will give you the whole HTML boiler plate.
