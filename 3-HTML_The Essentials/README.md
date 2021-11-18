@@ -39,3 +39,8 @@ Syntax:
 - Link: developer.mozilla.org/en-US/
 - Mozilla is not the creater of HTML, CSS or Javascript.
 - But, it is like a wiki to these technologies.
+
+## Paragraph elements
+
+- It is fine to nest tags with in them
+- <p> tag is used to mark it as a paragraph.
