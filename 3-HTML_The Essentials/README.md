@@ -78,3 +78,12 @@ Syntax:
 - `<body>` -> It includes all the elements that will be displayed on webpage.
 
 - Shortcut: With help of emmet, `!` followed by pressing `Tab` in VS Code will give you the whole HTML boiler plate.
+
+## Lists
+
+- There are two types of lists. Namely-Ordered and Unordered.
+- But both the lists can contain list tags to represent an element of the list.
+- `<ol>` -> Ordered list
+- `<ul>` -> Unordered list
+- `<li>` -> List tag
+- We can also nest Ordered / Unordered list inside the `li` tag
