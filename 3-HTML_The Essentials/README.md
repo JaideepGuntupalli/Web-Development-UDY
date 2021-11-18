@@ -62,3 +62,9 @@ Syntax:
 - We can use an emmet abreviation called `lorem` to input placeholder text.
 - `lorem * N` will input lorem ipsum sentence n times, where `N` is some natural number.
 - If it's `loremN` will input N words of lorem ipsum, where `N` is some natural number.
+
+## Intro to Chrome Developer Tools
+
+- You can `right click` and select `Inspect` to bring up chrome developer tools.
+- You can also use shortcut `Ctrl + Shift + C` in `Win` and `Cmd + Opt + C` in `MacOS`.
+- We can select an element in the page to learn how and why the element is rendered in the way it rendered.
