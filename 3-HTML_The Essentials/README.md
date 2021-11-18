@@ -31,6 +31,7 @@ Syntax:
 
 ## Our very first HTML page
 
+- Trying to replicate part of HTML/
 - If you don't close a tag, browser assumes that everything from there till the end needs to be bolded.
 
 ## About Mozilla Developer Network
@@ -42,5 +43,6 @@ Syntax:
 
 ## Paragraph elements
 
-- It is fine to nest tags with in them
+- Update the HTML file with <p> tags.
+- It is fine to nest tags with in them.
 - <p> tag is used to mark it as a paragraph.
