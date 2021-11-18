@@ -38,7 +38,7 @@ Syntax:
 ## About Mozilla Developer Network
 
 - Resources that covers about web technologies.
-- Link: [Moz://a Developer Network](developer.mozilla.org/en-US/)
+- Link: [Moz://a Developer Network](https://developer.mozilla.org/en-US/)
 - Mozilla is not the creater of HTML, CSS or Javascript.
 - But, it is like a wiki to these technologies.
 
