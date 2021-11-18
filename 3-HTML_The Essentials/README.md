@@ -18,16 +18,17 @@
 
 Some examples of HTML elements:
 
-- "<p>" element: represents a paragraph of text
-- "<h1>" element: represents the main header of the page
-- "<img>" element: embeds an image
-- "<form>" element: represents a form
+- `<p>` element: represents a paragraph of text
+- `<h1>` element: represents the main header of the page
+- `<img>` element: embeds an image
+- `<form>` element: represents a form
 
 Syntax:
 
- <p>I am a paragraph</p>
-- <p> : It is an opening tag
-- </p>: It is a closing tag
+`<p>I am a paragraph</p>`
+
+- `<p>` : It is an opening tag
+- `</p>`: It is a closing tag
 
 ## Our very first HTML page
 
@@ -43,9 +44,9 @@ Syntax:
 
 ## Paragraph elements
 
-- Update the HTML file with <p> tags.
+- Update the HTML file with `<p>` tags.
 - It is fine to nest tags with in them.
-- <p> tag is used to mark it as a paragraph.
+- `<p>` tag is used to mark it as a paragraph.
 
 ## Heading elements
 
