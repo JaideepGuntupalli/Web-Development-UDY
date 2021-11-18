@@ -93,3 +93,13 @@
 - `href` stands for Hypertext REFerence
 - We can also link to another html file
 - They are inline instead of taking up a whole line like heading elements.
+
+## Image element
+
+- `<img>` tag is used to embed an image into a page.
+- It doesnt have any closing tag.
+- All the properties are given as attributes to the tag.
+  Some important attributes:
+  -- `src` -> This will take an address of an image, either on local machine or from internet.
+  -- `alt` -> It holds a text description of the image, which is incredibly useful for accessibility.
+- We can change dimensions of a image using html but it is a bad practice.
