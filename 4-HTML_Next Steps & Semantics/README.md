@@ -24,3 +24,10 @@
 - It is a block level element
 - So, if they are multiple inline elements and some of them are put in div, then they take take their own line or block
 - Span tag (`<span></span>`) is also a generic container as div but it is an inline element.
+
+## HR, BR, Sup, & Sub tags
+
+- `<hr>`: It is a horizontal divider. They dont have a closing tag.
+- `<br>`: Instead of multiple paragraphs, we can use `<br>` to add next line to the paragraphs. They dont have a closing tag.
+- `<sup></sup>`: Makes the element render above the word like square in a math equation.
+- `<sub></sub>`: Makes the element render below the word like an equation of a chemical compound.
