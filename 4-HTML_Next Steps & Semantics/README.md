@@ -10,3 +10,10 @@
 - This set is sometimes called HTML5 & friends and often shortened to just HTML5
 
 - HTML5 cannot be turned off - [Quora Post](https://www.quora.com/How-do-you-disable-HTML5-in-Google-Chrome)
+
+## Block vs Inline
+
+- Block level elements take up a whole "block" of space
+- _Examples:_ Paragraph elements, Heading elements, etc
+- Inline elements fit along side other elements
+- _Examples:_ Anchor tags, Image elements, etc
