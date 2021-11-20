@@ -17,3 +17,10 @@
 - _Examples:_ Paragraph elements, Heading elements, etc
 - Inline elements fit along side other elements
 - _Examples:_ Anchor tags, Image elements, etc
+
+## Divs & Spans
+
+- Div tag(`<div></div>`) or The content division element is a generic container for flow content. It has on effect on the content or layout until styled using CSS.
+- It is a block level element
+- So, if they are multiple inline elements and some of them are put in div, then they take take their own line or block
+- Span tag (`<span></span>`) is also a generic container as div but it is an inline element.
