@@ -31,3 +31,11 @@
 - `<br>`: Instead of multiple paragraphs, we can use `<br>` to add next line to the paragraphs. They dont have a closing tag.
 - `<sup></sup>`: Makes the element render above the word like square in a math equation.
 - `<sub></sub>`: Makes the element render below the word like an equation of a chemical compound.
+
+## HTML Entity codes
+
+- We can use these codes in HTML such that they will result in different charecters.
+- We generally use these to use difficult charecters.
+- We also use these instead of reserved charecters like `<` or `>`.
+- Link to all the Entity codes: [Charecter Entity Reference](https://dev.w3.org/html5/html-author/charref)
+- _Syntax:_ Similar to `&gt;` directly between normal charecters.
