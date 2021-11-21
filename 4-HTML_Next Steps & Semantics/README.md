@@ -39,3 +39,19 @@
 - We also use these instead of reserved charecters like `<` or `>`.
 - Link to all the Entity codes: [Charecter Entity Reference](https://dev.w3.org/html5/html-author/charref)
 - _Syntax:_ Similar to `&gt;` directly between normal charecters.
+
+## Semantic Markup
+
+- Semantic means relating to meaning.
+- Basically we need to write a meaniful and readable html instead of div soup.
+- Some of the examples:
+  - `<main></main>`: It generally or should contain the main content of the page, not the navbar or sidebar
+  - `<nav></nav>`: It should contain links that takes you to differnet part of website but not page.
+  - `<section></section>`: It represents a standalone section which doesn't have a more specific semantic element to represent it.
+  - `<article></article>`: It represents a self contained composition in a document, page, application, or site, which is intended to be independently distributable or resusable. Each article should be identified, typically by including a heading(`<h1>`-`<h6>`) as a child of the `<article>` element.
+  - `<header></header>` & `<footer></footer>`: It is used to represent a header and footer of a page.
+  - `<aside></aside>`: Generally used for sidebar or callouts.
+  - `<time></time>`: Time element is used to represent time. You should also give full time which will help when using screen readers. It is an inline element that is just wrapped around date.
+  - `<figure></figure>`: It represents a self-contained content, potentially with an original caption, which is specified using the (`<figcaption>`) element.
+
+and there are many more elements like this. We need keep this in mind about semantic elements which will help with accessibility and SEO.
