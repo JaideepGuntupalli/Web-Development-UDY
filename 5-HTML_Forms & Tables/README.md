@@ -38,3 +38,10 @@
 -   Labels are used to define questions of the fields of inputs.
 -   Labels have syntax like `<label><label>` with for attribute that takes in an id of a input.
 -   We can also nest input inside label. In this way we dont even need id. Styling this way is difficult.
+
+### Buttons
+
+-   Buttons used outside the form will not to anything until specified with Javascript.
+-   Button when used inside of the form will submit the form.
+-   This can be stopped by using `type = " "` attribute and specifying it as button. This will make it to behave as normal button.
+-   We can also use input tag with type set to "submit" and value to desired text to be displayed on the button to make a submit button.
