@@ -32,3 +32,9 @@
 -   Tag: `<input>`. There is no closing tag
 -   Attribute `type = " "` is where the magic happens.
 -   Changing type dramatically alters the input's behavior and appearance
+
+### Labels
+
+-   Labels are used to define questions of the fields of inputs.
+-   Labels have syntax like `<label><label>` with for attribute that takes in an id of a input.
+-   We can also nest input inside label. In this way we dont even need id. Styling this way is difficult.
