@@ -51,3 +51,9 @@
 
 -   We can use name attribute through which we can submit details as values of these names.
 -   These are passed as a GET request
+
+### Checkbox
+
+-   It can be intialised with input tag.
+-   It can also be started as checked.
+-
