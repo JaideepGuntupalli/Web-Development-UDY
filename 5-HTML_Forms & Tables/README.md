@@ -45,3 +45,9 @@
 -   Button when used inside of the form will submit the form.
 -   This can be stopped by using `type = " "` attribute and specifying it as button. This will make it to behave as normal button.
 -   We can also use input tag with type set to "submit" and value to desired text to be displayed on the button to make a submit button.
+-   If we dont have a button, the input works even by pressing enter.
+
+### Query
+
+-   We can use name attribute through which we can submit details as values of these names.
+-   These are passed as a GET request
