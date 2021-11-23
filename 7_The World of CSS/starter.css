@@ -1,0 +1,55 @@
+body {
+    background-color: #f1faee;
+}
+
+h1,
+h2 {
+    color: #1d3557;
+}
+
+button {
+    font-size: 30px;
+    background-color: #a8dadc;
+}
+
+#signup {
+    color: #f1faee;
+    background-color: #1d3557;
+}
+
+span {
+    color: #457b9d;
+}
+
+.tag {
+    color: #f1faee;
+    background-color: #e63946;
+    font-size: 16px;
+}
+
+.post a {
+    color: #457b9d;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+footer a {
+    color: #e63946;
+}
+
+h2 + button {
+    font-size: 20px;
+}
+
+.post button:hover {
+    background-color: #e63946;
+    color: #f1faee;
+}
+
+.post a:hover {
+    text-decoration: underline;
+}
+
+.post:nth-of-type(2n + 1) {
+    background-color: #dfe8dc;
+}
