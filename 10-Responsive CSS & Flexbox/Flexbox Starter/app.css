@@ -1,0 +1,62 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+h1 {
+    text-align: center;
+}
+#container {
+    /* <-------------------------------------->*/
+    display: flex;
+    /*Main axis direction*/
+    flex-direction: row;
+    /*Main axis space distribution*/
+    justify-content: center;
+    /*Cross axis items arrangement*/
+    align-items: center;
+    /*Cross axis direction*/
+    flex-wrap: nowrap;
+    /*Cross axis space distribution*/
+    /*Works only when wrap is turned on*/
+    align-content: center;
+    /*<--------------------------------------> */
+    background-color: #003049;
+    width: 90%;
+    /* height: 500px; */
+    margin: 0 auto;
+    border: 5px solid #003049;
+}
+
+#container div {
+    width: 300px;
+    height: 200px;
+    /* Changes the particular child's size in the direction of main axis to the given value */
+    flex-basis: 300px;
+}
+
+div:nth-of-type(1) {
+    /* Flex grow gives the opportunity for the div to take as much as space as possible above flex-basis*/
+    flex-grow: 1;
+    /* similarly flex shrink governs the rate at which items in flexbox shrinks  */
+}
+
+main {
+    width: 80%;
+    margin: 0 auto;
+    border: 5px solid black;
+    height: 500px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+main .sidebar {
+    background: blueviolet;
+    flex-grow: 1;
+    flex-shrink: 5;
+}
+
+main .maincontent {
+    background: brown;
+    flex-grow: 3;
+    flex-shrink: 1;
+}
