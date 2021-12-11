@@ -1,14 +1,20 @@
 function isEven(num) {
     //WRITE YOUR CODE BETWEEN THIS LINE: ↓ ↓ ↓ ↓
     if (num % 2 === 0) {
-        console.log("even");
+        alert("The number is even");
     } else if (num % 2 === 1) {
-        console.log("odd");
+        alert("The number is odd");
     } else {
-        console.log("invalid");
+        alert("The number is invalid");
     }
     //AND THIS LINE ↑↑↑↑↑
 }
-let num = prompt("Enter a number: ");
-num = parseInt(num);
-isEven(num);
+let cnt = 1;
+while (cnt < 2) {
+    let num = prompt("Enter a number");
+    if (num === "") {
+        break;
+    }
+    isEven(num);
+    cnt++;
+}
