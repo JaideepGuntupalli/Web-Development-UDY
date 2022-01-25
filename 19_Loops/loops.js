@@ -8,8 +8,8 @@ const todoList = [];
 let command  = prompt("What would you like to do?");
 
 
-while(command !== quitKeyword){
-    
+while(true){
+
     if(command === newKeyword){
         let newTodo = prompt("What would you like to add?");
         todoList.push(newTodo);
@@ -31,7 +31,7 @@ while(command !== quitKeyword){
             todoList.splice(msgIdx,1);
         }
     }
-    else{
+    else if(command === quitKeyword){
         break;
     }
     command = prompt("What would you like to do?");
