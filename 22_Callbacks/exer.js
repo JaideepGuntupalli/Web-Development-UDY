@@ -13,3 +13,11 @@ const firstNames = fullNames.map(name => {
 })
 
 console.log(firstNames);
+
+const greet = msg => {
+    return `Hey ${msg}!`;
+};
+
+"lol".length;
+
+console.log(greet("Blue"));
